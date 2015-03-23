@@ -9,6 +9,7 @@ import android.view.MenuItem;
 public class MainActivity extends Activity {
 
     private String s;
+    private boolean n;
 
 
     @Override
